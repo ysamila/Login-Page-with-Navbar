@@ -1,0 +1,29 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.brandname{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 150%;
+}
+p a{
+    color: green;
+}
+/* signup-dialog{
+    max-width: 60%;
+} */
+.btn-primary{
+    background-color: green;
+}
+.modal-body{
+    padding: 0;
+}
+.signup-img{
+    background-image: url("https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80");
+    background-size: cover;
+    background-position:center ;
+}
+.signup-content{
+    padding: 1rem 0;
+}
