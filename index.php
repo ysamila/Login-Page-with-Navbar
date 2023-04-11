@@ -49,6 +49,9 @@
                             <li><a class="dropdown-item" href="#">Laguna</a></li>
                             <li><a class="dropdown-item" href="#">Batangas</a></li>
                             <li><a class="dropdown-item" href="#">Boracay</a></li>
+                            <li><a class="dropdown-item" href="#">Palawan</a></li>
+                            <li><a class="dropdown-item" href="#">Siargao</a></li>
+
                         </ul>
                     </li>
                     <li class="nav-item">
